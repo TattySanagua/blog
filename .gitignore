@@ -30,3 +30,8 @@ $RECYCLE.BIN/
 .vscode/
 .history/
 *.code-workspace
+
+# PyCharm
+.idea/
+*.sublime-project
+*.sublime-workspace
